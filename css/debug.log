@@ -1,0 +1,2 @@
+[1124/200938.968:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1124/200938.975:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\4dcb952e-7eee-478e-aa34-20c2bbf81a57: Le chemin d’accès spécifié est introuvable. (0x3)
